@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas 3</string>
+    <string name="email">Email</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="konfirmasi_kata_sandi">Konfirmasi Kata Sandi</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="katasandi">kata sandi</string>
+    <string name="loginn">login</string>
+    <string name="emaill">Email</string>
+    <string name="registerr">Register</string>
+</resources>
